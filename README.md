@@ -1,1 +1,1 @@
-# Glougloursin
+Projet Glougloursin: idées, concepts, designs, et bêta-tests.
