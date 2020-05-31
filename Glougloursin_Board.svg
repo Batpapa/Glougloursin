@@ -94,8 +94,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="768.4414"
-     inkscape:cy="568.47891"
+     inkscape:cx="566.85755"
+     inkscape:cy="582.22451"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1472,5 +1472,120 @@
          x="0"
          style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot992"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.12299862,0,0,0.12299862,168.52939,61.28035)"><flowRegion
+         id="flowRegion994"><rect
+           id="rect996"
+           width="214.28572"
+           height="102.85715"
+           x="-15.714286"
+           y="306.80539" /></flowRegion><flowPara
+         id="flowPara998">Bouclier</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot992-4"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.12299862,0,0,0.12299862,85.879924,4.3468081)"><flowRegion
+         id="flowRegion994-3"><rect
+           id="rect996-5"
+           width="214.28572"
+           height="102.85715"
+           x="-15.714286"
+           y="306.80539" /></flowRegion><flowPara
+         id="flowPara998-3">Trêve</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91994476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12299861"
+       x="166.10529"
+       y="244.88747"
+       id="text1026"><tspan
+         sodipodi:role="line"
+         id="tspan1024"
+         x="166.10529"
+         y="244.88747"
+         style="stroke-width:0.12299861">Cupidon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91994476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12299861"
+       x="194.485"
+       y="75.04599"
+       id="text1030"><tspan
+         sodipodi:role="line"
+         id="tspan1028"
+         x="194.485"
+         y="75.04599"
+         style="stroke-width:0.12299861">Plan à 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91994476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12299861"
+       x="55.671066"
+       y="213.70865"
+       id="text1034"><tspan
+         sodipodi:role="line"
+         id="tspan1032"
+         x="55.671066"
+         y="213.70865"
+         style="stroke-width:0.12299861">Cœur</tspan><tspan
+         sodipodi:role="line"
+         x="55.671066"
+         y="219.85858"
+         style="stroke-width:0.12299861"
+         id="tspan1044">brisé</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91994476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12299861"
+       x="109.3083"
+       y="131.21074"
+       id="text1038"><tspan
+         sodipodi:role="line"
+         id="tspan1036"
+         x="109.3083"
+         y="131.21074"
+         style="stroke-width:0.12299861">1 vs 1/2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91994476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12299861"
+       x="137.47983"
+       y="159.70918"
+       id="text1042"><tspan
+         sodipodi:role="line"
+         id="tspan1040"
+         x="137.47983"
+         y="159.70918"
+         style="stroke-width:0.12299861">Succube</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91994476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12299862"
+       x="192.83031"
+       y="216.12234"
+       id="text1030-5"><tspan
+         sodipodi:role="line"
+         id="tspan1028-7"
+         x="192.83031"
+         y="216.12234"
+         style="stroke-width:0.12299862">Caravane</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91994476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12299862"
+       x="52.349857"
+       y="75.066528"
+       id="text1038-9"><tspan
+         sodipodi:role="line"
+         id="tspan1036-6"
+         x="52.349857"
+         y="75.066528"
+         style="stroke-width:0.12299862">La peste</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91994476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12299862"
+       x="82.284035"
+       y="188.38881"
+       id="text1038-4"><tspan
+         sodipodi:role="line"
+         id="tspan1036-9"
+         x="82.284035"
+         y="188.38881"
+         style="stroke-width:0.12299862">Bombe</tspan></text>
   </g>
 </svg>
