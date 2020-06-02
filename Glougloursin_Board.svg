@@ -17,6 +17,18 @@
    width="420mm">
   <defs
      id="defs2">
+    <rect
+       id="rect289"
+       height="12.095238"
+       width="74.083333"
+       y="103.94345"
+       x="315.61012" />
+    <rect
+       id="rect277"
+       height="17.008929"
+       width="75.217262"
+       y="100.54167"
+       x="320.90179" />
     <clipPath
        id="clipPath1073"
        clipPathUnits="userSpaceOnUse">
@@ -83,6 +95,54 @@
          id="rect1099"
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     </clipPath>
+    <rect
+       x="315.61011"
+       y="103.94345"
+       width="74.083336"
+       height="12.095238"
+       id="rect289-9" />
+    <rect
+       x="315.61011"
+       y="103.94345"
+       width="74.083336"
+       height="12.095238"
+       id="rect302" />
+    <rect
+       id="rect289-9-5"
+       height="12.095238"
+       width="74.083336"
+       y="103.94345"
+       x="315.61011" />
+    <rect
+       id="rect339"
+       height="12.095238"
+       width="74.083336"
+       y="103.94345"
+       x="315.61011" />
+    <rect
+       id="rect289-9-1"
+       height="12.095238"
+       width="74.083336"
+       y="103.94345"
+       x="315.61011" />
+    <rect
+       id="rect369"
+       height="12.095238"
+       width="74.083336"
+       y="103.94345"
+       x="315.61011" />
+    <rect
+       x="315.61011"
+       y="103.94345"
+       width="74.083336"
+       height="12.095238"
+       id="rect289-9-1-3" />
+    <rect
+       x="315.61011"
+       y="103.94345"
+       width="74.083336"
+       height="12.095238"
+       id="rect399" />
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -97,9 +157,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="700.20204"
-     inkscape:cx="397.55048"
-     inkscape:zoom="0.98994949"
+     inkscape:cy="558.04247"
+     inkscape:cx="643.73463"
+     inkscape:zoom="0.7"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -818,7 +878,7 @@
        y="0"
        x="0" />
     <image
-       transform="translate(50.247573,-0.8435723)"
+       transform="translate(6.4023349,0.66833246)"
        clip-path="url(#clipPath1073)"
        width="157.16251"
        height="23.8125"
@@ -828,7 +888,7 @@
        x="279.36536"
        y="70.698128" />
     <image
-       transform="translate(23.655196,0.9978457)"
+       transform="translate(-20.190042,2.5097505)"
        clip-path="url(#clipPath1081)"
        width="157.16251"
        height="23.8125"
@@ -838,7 +898,7 @@
        x="279.36536"
        y="94.510628" />
     <image
-       transform="translate(-2.8713237,2.7306587)"
+       transform="translate(-46.716562,4.2425635)"
        clip-path="url(#clipPath1085)"
        width="157.16251"
        height="23.8125"
@@ -848,7 +908,7 @@
        x="279.36536"
        y="118.32313" />
     <image
-       transform="translate(-29.392259,4.5331367)"
+       transform="translate(-73.237497,6.0450415)"
        clip-path="url(#clipPath1089)"
        width="157.16251"
        height="23.8125"
@@ -858,7 +918,7 @@
        x="279.36536"
        y="142.13564" />
     <image
-       transform="translate(-55.90892,6.2933927)"
+       transform="translate(-99.754158,7.8052975)"
        clip-path="url(#clipPath1093)"
        width="157.16251"
        height="23.8125"
@@ -868,7 +928,7 @@
        x="279.36536"
        y="165.94814" />
     <image
-       transform="translate(-82.46864,8.1333475)"
+       transform="translate(-126.31388,9.6452523)"
        clip-path="url(#clipPath1097)"
        width="157.16251"
        height="23.8125"
@@ -1556,17 +1616,6 @@
          id="tspan1040"
          sodipodi:role="line" /></text>
     <text
-       id="text1030-5"
-       y="216.12234"
-       x="192.83031"
-       style="font-style:normal;font-weight:normal;font-size:4.91994476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12299862"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.12299862"
-         y="216.12234"
-         x="192.83031"
-         id="tspan1028-7"
-         sodipodi:role="line">Caravane</tspan></text>
-    <text
        id="text1038-9"
        y="75.066528"
        x="52.349857"
@@ -1579,14 +1628,86 @@
          sodipodi:role="line" /></text>
     <text
        id="text1038-4"
-       y="188.38881"
-       x="82.284035"
-       style="font-style:normal;font-weight:normal;font-size:4.91994476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12299862"
+       y="74.995949"
+       x="196.05487"
+       style="font-style:normal;font-weight:normal;font-size:4.91994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.122999"
        xml:space="preserve"><tspan
-         style="stroke-width:0.12299862"
-         y="188.38881"
-         x="82.284035"
+         style="stroke-width:0.122999"
+         y="74.995949"
+         x="196.05487"
          id="tspan1036-9"
          sodipodi:role="line">Bombe</tspan></text>
+    <text
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect277);"
+       id="text275"
+       xml:space="preserve" />
+    <text
+       transform="translate(-1.889881,-1.1339286)"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect289);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text287"
+       xml:space="preserve"><tspan
+         x="315.60938"
+         y="113.59882"><tspan>Casanova</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text287-8"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect289-9);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-1.7417664,49.366115)"><tspan
+         x="315.60938"
+         y="113.59882"><tspan>Inversion</tspan></tspan></text>
+    <text
+       id="text328"
+       y="138.33928"
+       x="328.08334"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="138.33928"
+         x="328.08334"
+         id="tspan326"
+         sodipodi:role="line"></tspan></text>
+    <text
+       transform="translate(-2.088737,23.663734)"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect289-9-5);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text287-8-6"
+       xml:space="preserve"><tspan
+         x="315.60938"
+         y="113.59882"><tspan>Caseneuve</tspan></tspan></text>
+    <text
+       transform="translate(-1.710761,74.690519)"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect289-9-1);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text287-8-60"
+       xml:space="preserve"><tspan
+         x="315.60938"
+         y="113.59882"><tspan>Mirroir</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text287-8-60-7"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect289-9-1-3);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-2.7963702,99.971004)"><tspan
+         x="315.60938"
+         y="113.59882"><tspan>Coup fourré</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91993px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.122999"
+       x="79.376892"
+       y="46.810936"
+       id="text1038-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan1036-9-5"
+         x="79.376892"
+         y="46.810936"
+         style="stroke-width:0.122999">Duplication</tspan></text>
+    <text
+       id="text1038-4-5-0"
+       y="74.7015"
+       x="52.314541"
+       style="font-style:normal;font-weight:normal;font-size:4.91993px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.122999"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.122999"
+         y="74.7015"
+         x="52.314541"
+         id="tspan1036-9-5-9"
+         sodipodi:role="line">Saignée</tspan></text>
   </g>
 </svg>
